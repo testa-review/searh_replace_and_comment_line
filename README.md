@@ -1,0 +1,2 @@
+# searh_replace_and_comment_line
+BUSCA Y REEMPLAZA 'console.warn' POR '//' PARA COMENARLO RECURSIVAMENTE, EN LOS SUBDIRECTORIOS, SOLO PARA LOS ARCHIVOS *.js
